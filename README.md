@@ -1,4 +1,6 @@
 samplephp
 =========
 
-A do nothing PHP site to show that you properly configured a PHP site
+This read me was modified by Matthew Tran 30002206
+I am not a robot
+Live long and prosper
